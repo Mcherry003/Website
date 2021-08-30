@@ -1,4 +1,38 @@
 body{
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: 2000px;
     background-color: #b4b4f0;
-    background-image: url('../../imiges/saosky.jfif);
+    background-image: url('../../imiges/black.jpg')
 }
+
+  h1{
+      color:white
+  }
+  fieldset{
+      color:white
+  }
+a:link, a:visited {
+  background-color: #4d4d4d;
+  color: rgb(170, 30, 30);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.topnav {
+  overflow: hidden;
+  background-color: 
+  #863131;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #b13333;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #888888;
+  color: #8f2c2c;
