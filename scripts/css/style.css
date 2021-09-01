@@ -37,3 +37,66 @@ a:link, a:visited {
   background-color: #888888;
   color: #8f2c2c;
 }
+.resize {
+  width: 150px;
+  height: auto;
+}
+#page_wrapper{
+     margin-left :auto;
+     margin-right :auto;
+     border-radius: 20px;
+     border: 5px;
+     padding: 10px;
+     height:800px;
+     width: 700px;
+}
+p.p_content1{
+  font-size: 12pt;
+  color:rgb(170, 30, 30);
+  font-family: Verdana;
+  background: white;
+  padding: 5px;
+  border-radius: 3px;
+  border: 2px solid black;
+}
+#transbox {
+  margin: 30px;
+     background-color: silver;
+     border: 2px solid red;
+     opacity: 0.8;
+     border-radius: 30px;
+     padding: 30px;
+     width: 60%; 
+     height: 70%;
+     position:absolute;
+     left: 66%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+}
+#transboxp{
+    margin: 1%;
+    color: rgb(0, 0, 0);
+}
+#transbox1 {
+     margin: 30px;
+     background-color: silver;
+     border: 2px solid red;
+     opacity: 0.8;
+     border-radius: 30px;
+     padding: 30px;
+     width: 10%; 
+     height: 70%;
+     position:absolute;
+     left: 6%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+}
+#transbox1p {
+  margin: 1%;
+  color: rgb(0, 0, 0);
+}
+#scrollimg {
+    position:absolute;
+    left: 17%;
+    top: 16%;
+}
