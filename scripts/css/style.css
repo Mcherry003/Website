@@ -2,8 +2,7 @@ body{
     background-repeat: no-repeat;
     background-position: center ;
     background-size: 2000px;
-    background-color: #b4b4f0;
-    background-image: url('../../imiges/black.jpg')
+    background-image: url('../../images/black.jpg')
 }
 
   h1{
@@ -98,5 +97,15 @@ p.p_content1{
 #scrollimg {
     position:absolute;
     left: 17%;
-    top: 16%;
+    top: 14%;
+}
+#krunk{
+  position:absolute;
+  left: 60%;
+  top: 13%;
+}
+#onev1{
+  position: absolute;
+  left: 20%;
+  top: 13%;
 }
